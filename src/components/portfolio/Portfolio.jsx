@@ -1,5 +1,6 @@
 import React from 'react'
 import './portfolio.css'
+
 const Portfolio = () => {
   return (
     <div>
@@ -7,5 +8,5 @@ const Portfolio = () => {
     </div>
   )
 }
-import './portfolio.css'
+
 export default Portfolio
