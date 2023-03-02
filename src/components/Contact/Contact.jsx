@@ -7,5 +7,5 @@ const Contact = () => {
     </div>
   )
 }
-import './Contact.css'
+
 export default Contact

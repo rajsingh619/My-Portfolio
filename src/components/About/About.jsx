@@ -7,5 +7,5 @@ const About = () => {
     </div>
   )
 }
-import './About.css'
+
 export default About
