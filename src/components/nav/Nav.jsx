@@ -7,5 +7,5 @@ const Nav = () => {
     </div>
   )
 }
-import './nav.css'
+
 export default Nav

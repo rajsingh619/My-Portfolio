@@ -7,5 +7,5 @@ const Footer = () => {
     </div>
   )
 }
-import './footer.css'
+
 export default Footer
