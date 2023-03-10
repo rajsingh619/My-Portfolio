@@ -41,7 +41,7 @@ const About = () => {
         <p>
           I am currently pursuing Electronics and Communication Engineering from Heritage Institute of Technology,Kolkata. I like to spend my time by reading books, or listening to music or podcasts. I love sports and travelling. I like to develop websites and I am keen to learn the new technologies, so looking forward to great opportunities in software engineering.
         </p>
-        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+        <a href="#contact" className='btn btn-primary' >Let's Talk</a>
       </div>
     </div>
    </section>

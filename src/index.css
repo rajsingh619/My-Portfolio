@@ -35,7 +35,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height:1.7;
-   /* background-image: url(../src/assets/bg-texture.jpg); */
+    background-image: url(../src/assets/bg-texture.png);
 }
 
 /* =====General Styles===== */
@@ -56,8 +56,8 @@ h1{
     font-size: 2.5rem;
 }
 section{
+    padding: 2rem;
     margin-top: 8rem;
-    height: 100vh;
 }
 
 section>h2,section>h5{
